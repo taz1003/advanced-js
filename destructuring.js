@@ -58,6 +58,9 @@ console.log(brian); // pizza
 console.log(anna); // pasta
 console.log(rest); // { sarah: 'vegetarian', andrea: 'steak' }
 
+
+
+
 // ==============================================================================
 // Destructuring objects
 
